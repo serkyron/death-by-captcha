@@ -1,0 +1,31 @@
+{
+  "name": "death-by-captcha",
+  "version": "1.0.0",
+  "description": "Provides API to deathbycaptcha.com written in TS",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "node_modules/.bin/tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serkyron/death-by-captcha.git"
+  },
+  "keywords": [
+    "deathbycaptcha",
+    "captcha",
+    "recaptcha"
+  ],
+  "author": "serkyron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serkyron/death-by-captcha/issues"
+  },
+  "homepage": "https://github.com/serkyron/death-by-captcha#readme",
+  "devDependencies": {
+    "@types/node": "^12.7.12",
+    "tslint": "^5.19.0",
+    "typescript": "^3.6.2"
+  },
+  "dependencies": {}
+}
