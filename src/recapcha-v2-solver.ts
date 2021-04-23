@@ -1,6 +1,6 @@
 import {SocketClient} from './vendor_api/deathbycaptcha'
-import {IRecaptchaV2Params} from "./vendor_api/params";
-import {IRecaptchaV2Response} from "./vendor_api/response";
+import {IRecaptchaV2Params} from "./interfaces/IRecaptchaV2Params";
+import {IRecaptchaV2Response} from "./interfaces/IRecaptchaV2Response";
 import {DbcSocketClient} from "./vendor_api/client";
 
 export class RecapchaV2Solver {
