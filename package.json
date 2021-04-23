@@ -1,5 +1,5 @@
 {
-  "name": "death-by-captcha",
+  "name": "@serkyron/death-by-captcha",
   "version": "1.0.0",
   "description": "Provides API to deathbycaptcha.com written in TS",
   "main": "dist/index.js",
